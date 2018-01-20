@@ -8,30 +8,46 @@
 .hidden {
     display: none;
 }
-
+#Pic{
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+}
 .padding-bottom {
     padding-bottom: 30px;
+}
+
+#Paragraph{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    padding: 30px
+}
+
+.spacing{
+    margin-top: 150px;
 }
 
 h1 {
     font-size: 80px;
     color: rgb(255, 255, 255);
-    text-align: center;
+    text-align: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 #Lion{
-    font-size: 60px;
-    text-align: center;
+    font-size: 100px;
+    text-align: left
 
     
 }
 #Content{
-    text-align: center
+    text-align: left;
+    
 }
 
 p {
     font-size: 100px;
-    text-align: center;
+    text-align: none;
 
 } 
 .row{
