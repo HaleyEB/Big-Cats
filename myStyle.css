@@ -1,0 +1,47 @@
+.button-style {
+    background-color: rgb(0, 0, 0);
+    width: 100px;
+    height: 60px;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.padding-bottom {
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#Lion{
+    font-size: 60px;
+    text-align: center;
+
+    
+}
+#Content{
+    text-align: center
+}
+
+p {
+    font-size: 100px;
+    text-align: center;
+
+} 
+.row{
+    text-align-last: center
+}
+body{
+    background-image: url("https://hcyip.files.wordpress.com/2010/09/dsc03553.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    bac
+    
+    
+}
